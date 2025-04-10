@@ -2,6 +2,7 @@
 ```markdown
 # 🐾 Sistema de Gestão para PetShop
 
+
 Este projeto é um sistema de gestão simples para um PetShop, desenvolvido em Java para rodar no terminal.
 Ele permite o cadastro e gerenciamento de clientes, pets, funcionários e produtos em estoque.
 
